@@ -158,7 +158,7 @@ projeto/
 
 ## Autor
 
-**Nome:** [Seu Nome]  
+**Nome:** Pedro Araújo Franco  
 **Curso:** Engenharia de Software  
 **Disciplina:** Fundamentos de Projeto e Análise de Algoritmos  
 **Professor:** João Paulo Carneiro Aramuni  
